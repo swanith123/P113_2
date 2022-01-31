@@ -1,0 +1,9 @@
+body{
+   text-align: center;
+   background-image: "background_img.jpg";
+   font-family: 'Outfit', sans-serif;
+}
+
+canvas{
+   border: 3px dashed blue;
+}
